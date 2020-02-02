@@ -15,7 +15,7 @@
         
         use Acme\MiniSimulateur;
         
-        $resultat = new MiniSimulateur();
+        $resultat = new MiniSimulateur(); //
         $result = $resultat->main();
         echo($result);
     ?>

@@ -5,7 +5,7 @@ use Acme\IComportementVol;
 
 class VolerAvecDesAiles implements IComportementVol
 {
-    public function voler() 
+    public function voler() //
     {
         echo "Je vole !! ";
     }

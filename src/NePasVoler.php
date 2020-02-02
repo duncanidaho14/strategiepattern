@@ -8,6 +8,6 @@ class NePasVoler implements IComportementVol
 {
     public function voler() 
     {
-        echo " Je ne sais pas voler ! "
+        echo " Je ne sais pas voler ! ";
     }
 }
